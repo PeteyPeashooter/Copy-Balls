@@ -1,2 +1,4 @@
 # Copy-Balls
-Copy Balls is only the Indev name.
+Copy Balls is only the Indev name. The name coming from a friend calling it this instead of the other indev name being "Copy Protagonist" It got that name as we are trying to make a Rhythm game similar to Guitar Hero and Clone Here. First "development" started in around 2019/2020 but halted due to us both barely knowing how to use unity. Since then i have started taking classes and my friend got better a coding and we hope to make a simple game with the community able to help its development.  
+
+I hope to put the path i wish to take in development on here as to show where development might go in the future. though it may take YEARS for big progress to happen as the two of us arn't good at this kind of thing as of now and we are making the game open source as to let the community help with development, maybe helping with performance bugs or even becoming part of the actual team.
